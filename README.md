@@ -5,7 +5,7 @@ Columns: animeID, title, alternativ:_title, type, year, score, episodes, mal_url
 AnimeID is an unique id, its not MyAnimeList ID. you can see MyAnimeList id in mal_url column.
 
 ## Example
-1,Howl's Moving Castle,Howl no Ugoku Shiro,MOVIE,2004,8.41,1,https://myanimelist.net/anime/431,False,https://cdn.myanimelist.net/images/anime/1470/138723.jpg,
+1,Howl's Moving Castle,Howl no Ugoku Shiro, MOVIE, 2004, 8.41, 1, https://myanimelist.net/anime/431, False, https://cdn.myanimelist.net/images/anime/1470/138723.jpg,  
 "['Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Romance']",
 "['action', 'adventure', 'age gap', 'air force', 'anti-war', 'aristocracy', 'aviation', 'award winning', 'based on a novel', 'boy meets girl', 'cgi', 'comedy', 'coming of age',
 'coming-of-age', 'curse', 'curses', 'demon', 'demons', 'detailed landscapes', 'disability', 'disaster', 'drama', 'elderly protagonist', 'ending', 'european stylised', 'fairy tale',
