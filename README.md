@@ -1,5 +1,5 @@
 ## Data
-
+This dataset doesn't contain all the anime in MyAnimeList id. Its filtered and only animes with certain level of popularity included in this dataset. Total of 20238 animes included.
 Columns: animeID, title, alternativ:_title, type, year, score, episodes, mal_url, sequel, image_url, genres, genres_detailed
 
 AnimeID is an unique id, its not MyAnimeList ID. you can see MyAnimeList id in mal_url column.
