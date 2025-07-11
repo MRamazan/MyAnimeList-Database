@@ -2,7 +2,7 @@
 
 Columns: animeID, title, alternativ:_title, type, year, score, episodes, mal_url, sequel, image_url, genres, genres_detailed
 
-AnimeID is an unique id, its not MyAnimeList ID. you can see MyAnimeList id in mal_ulr column.
+AnimeID is an unique id, its not MyAnimeList ID. you can see MyAnimeList id in mal_url column.
 
 ## Example
 1,Howl's Moving Castle,Howl no Ugoku Shiro,MOVIE,2004,8.41,1,https://myanimelist.net/anime/431,False,https://cdn.myanimelist.net/images/anime/1470/138723.jpg,
